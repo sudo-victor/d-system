@@ -1,0 +1,4 @@
+{
+  "extends": "@buscamilhas-ui/ts-config/react.json",
+  "include": ["src"]
+}
